@@ -1,0 +1,23 @@
+{
+    "compatibleVersion": 3,
+    "bundleVersion": 1,
+    "commands": [
+        {
+            "name": "🔀 Sketch Invert Fills",
+            "identifier": "invert-script",
+            "script": "./script.js",
+            "handlers": {
+                "run": "onRun",
+                "actions": {
+                    "Shutdown": "onShutdown"
+                }
+            }
+        }
+    ],
+    "menu": {
+        "title": "🔀 Sketch Invert Fills",
+        "items": ["invert-script"],
+        "isRoot": true
+    },
+    "icon": "icon.png"
+}
