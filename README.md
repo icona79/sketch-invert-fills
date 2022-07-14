@@ -1,14 +1,6 @@
-# Sketch Lineout
+# Sketch Invert Fills
 
-[![Sketch lineout plugin preview](https://img.youtube.com/vi/V6C1RE6CGdQ/0.jpg)]
-
-The plugin generates a new `Lineout` page which will contain the selected Artboard's or Source Symbol's copies. THese copies will be lineout copies of the original artboard:
-
--   all the symbol instances will bedetached
--   all the shapes will have a red border only
--   all the text layers will be converted in a rectangle shape of the same size
-
-All the item names will be maintained.
+With this simple plugin, you can select 2 (only 2) layers and invert their fill color. It works with Shapes and Text layers only.
 
 ## Aknowledgments
 
@@ -16,7 +8,7 @@ Thanks [Francesco Bertocci](https://github.com/fbmore) for all their support :pr
 
 ## Installation
 
--   [Download](../../releases/latest/download/sketch-lineout.sketchplugin.zip) the latest release of the plugin
+-   [Download](../../releases/latest/download/sketch-invert-fills.sketchplugin.zip) the latest release of the plugin
 -   Un-zip
 -   Double-click on sketch-tokens-exporter.sketchplugin
 
