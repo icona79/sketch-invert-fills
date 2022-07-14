@@ -1,5 +1,7 @@
 # Sketch Invert Fills
 
+[![Sketch invert fills plugin preview](/assets/preview.gif)]
+
 With this simple plugin, you can select 2 (only 2) layers and invert their fill color. It works with Shapes and Text layers only.
 
 ## Aknowledgments

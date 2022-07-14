@@ -12,6 +12,7 @@ export default function () {
                 colors.push(layer.style.textColor);
             }
         });
+        console.log(colors);
         let counter = 1;
         selectedItems.forEach((layer) => {
             if (layer.type === "Shape" || layer.type === "ShapePath") {
