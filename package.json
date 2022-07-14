@@ -1,7 +1,7 @@
 {
     "name": "sketch-invert-fills",
     "description": "Invert fills beween 2 selected layers",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "engines": {
         "sketch": ">=3.0"
     },
